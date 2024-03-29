@@ -15,7 +15,10 @@ What happens if I subscribe and the project is cancelled?
 
 We do not bear responsibility if you subscribe and the project is canceled or not shared
 
-
-
 It will be published publicly at any time.
+
+how to enable Activator?
+use curseForge or forge and Open "Mod Folder" then add the Activator.har file inside it
+u can use any mod show u the installed mod and see the Activator.jar
+
 by: unc0verTeam & roothide
